@@ -52,7 +52,7 @@ The attacker uses SET Toolkit to clone a trusted site (Google) and capture login
 <p><strong>Launch Kali Linux and Elevate Privileges</strong></p>
 
 <pre>
-sudo su -
+sudo su 
 </pre>
 
 <p><strong>Retrieve the IP address:</strong></p>
